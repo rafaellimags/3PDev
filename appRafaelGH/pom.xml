@@ -9,27 +9,15 @@
 		<version>2.5.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>code.com.desafio</groupId>
+	<groupId>code.com.desfaio</groupId>
 	<artifactId>appRafael</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>appRafael</name>
-	<description>Projeto de gestão financeira</description>
+	<description>Projeto 3P desafio Java</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-
-		<dependency>
-			<groupId>taglibs</groupId>
-			<artifactId>standard</artifactId>
-			<version>1.1.2</version>
-		</dependency>
-
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>jstl</artifactId>
-		</dependency>
-
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
